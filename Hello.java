@@ -1,6 +1,3 @@
-package com.delta;
-
-import java.util.Scanner;
 
 public class Hello {
 	
